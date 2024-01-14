@@ -1,12 +1,12 @@
-# Challenge 4 Read Me
+# Challenge 5 Read Me
 
-Description:  This is the read me file for the fourth Challenge assignment for the Web Development Boot Camp at Northwestern.  Requirements implemented and met are found below in grading requirements.
+Description:  This is the read me file for the fifth Challenge assignment for the Web Development Boot Camp at Northwestern.  Requirements implemented and met are found below in grading requirements.
 
 GitHub Web Page URL
-https://tonypdoanuchicago.github.io/Challenge_4/Develop/
+https://tonypdoanuchicago.github.io/Challenge_5/Develop/
 
 GitHub Repo
-https://github.com/tonypdoanuchicago/Challenge_4
+https://github.com/tonypdoanuchicago/Challenge_5
 
 Web Page Screenshot
 ![alt text](https://github.com/tonypdoanuchicago/Challenge_4/blob/main/Challenge_4_Screenshot.png)](https://github.com/tonypdoanuchicago/Challenge_4/blob/main/Challenge_4_Screenshot.png?raw=true)
@@ -15,7 +15,9 @@ Web Page Screenshot
 Grading Requirements
 
 Technical Acceptance Criteria: 40%
-Satisfies all of the above acceptance criteria.
+Satisfies all of the above acceptance criteria plus the following:
+
+Uses the Day.js library to work with date and time.
 Deployment: 32%
 Application deployed at live URL.
 
@@ -23,7 +25,7 @@ Application loads with no errors.
 
 Application GitHub URL submitted.
 
-GitHub repository that contains application code.
+GitHub repo contains application code.
 
 Application Quality: 15%
 Application user experience is intuitive and easy to navigate.
@@ -37,11 +39,8 @@ Repository has a unique name.
 
 Repository follows best practices for file structure and naming conventions.
 
-Repository follows best practices for class/id naming conventions, indentation, high-quality comments, etc.
+Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
 Repository contains multiple descriptive commit messages.
 
-Repository contains a high-quality README file with description, screenshot, and link to deployed application.
-
-
-
+Repository contains a quality README file with description, screenshot, and link to deployed application.
